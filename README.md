@@ -101,18 +101,6 @@ npm install geotajak-sdk
        Amirkabir University · Arak
 ```
 
-## `06. This portfolio`
-
-The site is a responsive, accessible, framework-free GitHub Pages build with animated cartographic visuals, interactive project sections, and reduced-motion support.
-
-```bash
-git clone https://github.com/msr-ir/msr-ir.github.io.git
-cd msr-ir.github.io
-python3 -m http.server 8000
-```
-
-Open [`http://localhost:8000`](http://localhost:8000) to preview it.
-
 ---
 
 <div align="center">
