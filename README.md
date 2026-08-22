@@ -17,7 +17,7 @@
   <br />
 
   [![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-DEA404?style=for-the-badge&logo=googleearth&logoColor=17130A)](https://msr-ir.github.io)
-  [![CV](https://img.shields.io/badge/DOWNLOAD_CV-1A1E25?style=for-the-badge&logo=readme&logoColor=F6C744)](Mojtaba_Sajadfar.pdf)
+  [![CV](https://img.shields.io/badge/DOWNLOAD_CV-1A1E25?style=for-the-badge&logo=readme&logoColor=F6C744)]([Mojtaba_Sajadfar.pdf](https://github.com/msr-ir/msr-ir.github.io/blob/main/Mojtaba_Sajadfar.pdf))
   [![LinkedIn](https://img.shields.io/badge/LINKEDIN-1A1E25?style=for-the-badge&logo=linkedin&logoColor=F6C744)](https://www.linkedin.com/in/mojtaba-sajadfar)
 
   <br />
@@ -31,9 +31,9 @@
 
 ## `01. About`
 
-I'm a Front-End Developer with six years of experience building high-performance mapping platforms, progressive web apps, and spatial-data interfaces. I integrate geographic data, customize open-source GIS libraries, and turn complex datasets into products that feel clear and intuitive.
+I'm a Front-End Developer with six years of experience building high-performance mapping platforms, progressive web apps, and spatial-data interfaces for municipal and national programs. I integrate geographic data, customize open-source GIS libraries, and turn messy, complex datasets into products that feel clear and intuitive.
 
-Alongside production work at **Saafaa**, I design and ship full-stack products independently—from database architecture to the final interface.
+Alongside production work at **Saafaa**, I design and ship full-stack products independently, end to end — from database architecture to the final interface.
 
 ## `02. Core stack`
 
@@ -55,7 +55,7 @@ Alongside production work at **Saafaa**, I design and ship full-stack products i
 | Layer | Technologies |
 | :--- | :--- |
 | **Front end** | HTML · CSS · Sass · Bootstrap · JavaScript · TypeScript · Angular · Ionic · Ng-Zorro |
-| **Geospatial** | OpenLayers · ol-ext · Cesium 3D · OGC services · WMS/WFS |
+| **Geospatial** | OpenLayers · ol-ext · Cesium 3D · OGC services · WMS/WFS/WCS/CSW |
 | **Back end & data** | NestJS · Prisma · PostgreSQL · Redis · Firebase |
 | **Delivery** | Git · Docker · Jira · REST APIs · MVC · PWA · RBAC |
 
@@ -71,23 +71,20 @@ A mobile HR platform with two-step OTP login, live attendance dashboards, multi-
 
 ### 🟠 geotajak-sdk
 
-> **Personal npm package · Framework-agnostic OpenLayers toolkit**
+> **Framework-agnostic OpenLayers toolkit · npm package**
 
 A lightweight wrapper with WMS layers, live GetFeatureInfo, drawing and measurement tools, XYZ basemaps, a themeable UI, and ready-made React and Angular examples.
-
-```bash
-npm install geotajak-sdk
-```
 
 ## `04. Production platforms`
 
 | Product | What it does | Focus |
 | :--- | :--- | :--- |
 | [**Geotajak3 ↗**](https://geotajak.ir/products/geotajak) | Open-source WebGIS core for vector/raster data, 3D maps, satellite imagery, cartography, and workflows | `OGC` `WMS/WFS` `3D` |
+| [**GeoPortal ↗**](https://geotajak.ir/products/geoportal) | Public web mapping platform in the spirit of Google Maps or map.ir — search, measurement, panorama, routing | `Responsive` `Routing` `Panorama` |
 | [**Data Catalog ↗**](https://geotajak.ir/products/data-catalog) | Search, preview, download, and metadata management for organizational spatial datasets | `WMS/WFS` `Metadata` |
 | [**Accident Analysis ↗**](https://geotajak.ir/products/accident) | Traffic-risk mapping and analysis for road-safety decisions | `Search` `RBAC` `OGC` |
 | [**Drilling Management ↗**](https://geotajak.ir/products/drilling) | Digital urban-excavation permits with real-time map monitoring | `Real time` `Permits` |
-| [**Fleet Management ↗**](https://geotajak.ir/products/fms) | Live GPS tracking, fleet control, shifts, drivers, and smart alerts | `Live GPS` `Fleet ops` |
+| [**Fleet Management ↗**](https://geotajak.ir/products/fms) | Live GPS tracking, fleet control, shifts, drivers, and smart alerts — built on Traccar | `Live GPS` `Fleet ops` |
 
 ## `05. Experience`
 
@@ -101,15 +98,13 @@ npm install geotajak-sdk
        Amirkabir University · Arak
 ```
 
----
-
 <div align="center">
 
 ### Let's build something worth putting on the map.
 
-[![Email](https://img.shields.io/badge/ms26sr%40gmail.com-DEA404?style=for-the-badge&logo=gmail&logoColor=17130A)](mailto:ms26sr@gmail.com)
+[![Email](https://img.shields.io/badge/msr26.ir%40gmail.com-DEA404?style=for-the-badge&logo=gmail&logoColor=17130A)](mailto:msr26.ir@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/mojtaba--sajadfar-1A1E25?style=for-the-badge&logo=linkedin&logoColor=F6C744)](https://www.linkedin.com/in/mojtaba-sajadfar)
 
-<sub>© 2026 Mojtaba Sajadfar · Built in Yazd, Iran</sub>
+<sub>© 2026 Mojtaba Sajadfar · Built in Yazd, Islamic Republic Of Iran</sub>
 
 </div>
