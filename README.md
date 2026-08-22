@@ -17,7 +17,7 @@
   <br />
 
   [![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-DEA404?style=for-the-badge&logo=googleearth&logoColor=17130A)](https://msr-ir.github.io)
-  [![CV](https://img.shields.io/badge/DOWNLOAD_CV-1A1E25?style=for-the-badge&logo=readme&logoColor=F6C744)]([Mojtaba_Sajadfar.pdf](https://github.com/msr-ir/msr-ir.github.io/blob/main/Mojtaba_Sajadfar.pdf))
+  [![CV](https://img.shields.io/badge/DOWNLOAD_CV-1A1E25?style=for-the-badge&logo=readme&logoColor=F6C744)](https://raw.githubusercontent.com/msr-ir/msr-ir.github.io/main/Mojtaba_Sajadfar.pdf)
   [![LinkedIn](https://img.shields.io/badge/LINKEDIN-1A1E25?style=for-the-badge&logo=linkedin&logoColor=F6C744)](https://www.linkedin.com/in/mojtaba-sajadfar)
 
   <br />
