@@ -17,7 +17,7 @@
   <br />
 
   [![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-DEA404?style=for-the-badge&logo=googleearth&logoColor=17130A)](https://msr-ir.github.io)
-  [![CV](https://img.shields.io/badge/DOWNLOAD_CV-1A1E25?style=for-the-badge&logo=readme&logoColor=F6C744)](https://raw.githubusercontent.com/msr-ir/msr-ir.github.io/main/Mojtaba_Sajadfar.pdf)
+  [![CV](https://img.shields.io/badge/DOWNLOAD_CV-1A1E25?style=for-the-badge&logo=readme&logoColor=F6C744)](https://raw.githubusercontent.com/msr-ir/msr-ir.github.io/main/assets/Mojtaba_Sajadfar.pdf)
   [![LinkedIn](https://img.shields.io/badge/LINKEDIN-1A1E25?style=for-the-badge&logo=linkedin&logoColor=F6C744)](https://www.linkedin.com/in/mojtaba-sajadfar)
 
   <br />
@@ -79,12 +79,11 @@ A lightweight wrapper with WMS layers, live GetFeatureInfo, drawing and measurem
 
 | Product | What it does | Focus |
 | :--- | :--- | :--- |
-| [**Geotajak3 ↗**](https://geotajak.ir/products/geotajak) | Open-source WebGIS core for vector/raster data, 3D maps, satellite imagery, cartography, and workflows | `OGC` `WMS/WFS` `3D` |
-| [**GeoPortal ↗**](https://geotajak.ir/products/geoportal) | Public web mapping platform in the spirit of Google Maps or map.ir — search, measurement, panorama, routing | `Responsive` `Routing` `Panorama` |
-| [**Data Catalog ↗**](https://geotajak.ir/products/data-catalog) | Search, preview, download, and metadata management for organizational spatial datasets | `WMS/WFS` `Metadata` |
-| [**Accident Analysis ↗**](https://geotajak.ir/products/accident) | Traffic-risk mapping and analysis for road-safety decisions | `Search` `RBAC` `OGC` |
-| [**Drilling Management ↗**](https://geotajak.ir/products/drilling) | Digital urban-excavation permits with real-time map monitoring | `Real time` `Permits` |
-| [**Fleet Management ↗**](https://geotajak.ir/products/fms) | Live GPS tracking, fleet control, shifts, drivers, and smart alerts — built on Traccar | `Live GPS` `Fleet ops` |
+| **Geotajak3** | Open-source WebGIS core for vector/raster data, 3D maps, satellite imagery, cartography, and workflows | `OGC` `WMS/WFS` `3D` |
+| **Accident Analysis** | Traffic-risk mapping and analysis for road-safety decisions | `Search` `RBAC` `OGC` |
+| **Drilling Management** | Digital urban-excavation permits with real-time map monitoring | `Real time` `Permits` |
+| **Fleet Management** | Live GPS tracking, fleet control, shifts, drivers, and smart alerts — built on Traccar | `Live GPS` `Fleet ops` |
+| **Data Catalog** | Search, preview, download, and metadata management for organizational spatial datasets | `WMS/WFS` `Metadata` |
 
 ## `05. Experience`
 
