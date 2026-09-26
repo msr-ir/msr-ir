@@ -12,12 +12,12 @@
 
   ### Front-End Developer · WebGIS Specialist
 
-  I turn spatial data into interfaces people can actually navigate.
+  I turn spatial data into interfaces people genuinely enjoy using.
 
   <br />
 
   [![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-DEA404?style=for-the-badge&logo=googleearth&logoColor=17130A)](https://msr-ir.github.io)
-  [![CV](https://img.shields.io/badge/DOWNLOAD_CV-1A1E25?style=for-the-badge&logo=readme&logoColor=F6C744)](https://raw.githubusercontent.com/msr-ir/msr-ir.github.io/main/assets/Mojtaba_Sajadfar.pdf)
+  [![CV](https://img.shields.io/badge/DOWNLOAD_CV-1A1E25?style=for-the-badge&logo=readme&logoColor=F6C744)](https://msr-ir.github.io/assets/Mojtaba_Sajadfar_EN.pdf)
   [![LinkedIn](https://img.shields.io/badge/LINKEDIN-1A1E25?style=for-the-badge&logo=linkedin&logoColor=F6C744)](https://www.linkedin.com/in/mojtaba-sajadfar)
 
   <br />
@@ -31,9 +31,9 @@
 
 ## `01. About`
 
-I'm a Front-End Developer with six years of experience building high-performance mapping platforms, progressive web apps, and spatial-data interfaces for municipal and national programs. I integrate geographic data, customize open-source GIS libraries, and turn messy, complex datasets into products that feel clear and intuitive.
+I'm a Front-End Developer based in Yazd, Iran, with six years of experience building high-performance mapping platforms, progressive web apps, and spatial-data interfaces for municipal and national programs. I integrate geographic data, customize open-source GIS libraries, and turn messy, complex datasets into products that feel clear and intuitive.
 
-Alongside production work at **Saafaa**, I design and ship full-stack products independently, end to end — from database architecture to the final interface.
+Outside client work at **Saafaa**, I design and ship full-stack products independently, end to end — from database architecture to the final interface. That includes **Iranzamin**, a full-stack tourism guide built around a custom design system inspired by Achaemenid art and ancient Iran.
 
 ## `02. Core stack`
 
@@ -61,6 +61,14 @@ Alongside production work at **Saafaa**, I design and ship full-stack products i
 
 ## `03. Featured builds`
 
+### 🟠 Iranzamin — Historic Iran Tourism Guide
+
+> **Personal project · Designed and built solo, end to end**
+
+A full-stack tourism guide for Iran's historic cities: a NestJS + PostgreSQL API behind a fully custom, hand-drawn interface — no default Ionic components — built around a design system inspired by Achaemenid art and ancient Iran (lotus-inscription borders, Persepolis step patterns, rosette ratings, iwan-arch imagery). Car and pedestrian route planning, an AR view for on-site exploration, place details with reviews, a light/dark home screen, and a full admin console. Fully bilingual (English/Persian), backed by 32 end-to-end tests.
+
+`NestJS` `PostgreSQL` `AR Navigator` `OSRM Routing` `Achaemenid Design System` `Docker`
+
 ### 🟠 Yooz — Workforce Attendance
 
 > **Personal project · Designed and built solo, end to end**
@@ -69,11 +77,37 @@ A mobile HR platform with two-step OTP login, live attendance dashboards, multi-
 
 `Angular 20` `Ionic 8` `NestJS` `Prisma` `PostgreSQL` `Redis` `Firebase`
 
+### 🟠 Waqtnegar (وقت‌نگار) — Jira Worklog Manager
+
+> **Personal project · Mobile & desktop, solo**
+
+A mobile-first time-tracking companion for Jira that talks directly to the Jira REST API v2 with no backend of its own — sign in with a Personal Access Token, browse tasks with JQL-driven filters, move issues through their real workflow, run timers, and submit worklogs. Daily/weekly/monthly reports on a Jalali calendar, inside a Persian RTL dark UI.
+
+`Angular 21` `Ionic 9` `Direct Jira REST v2` `Zoneless` `Signals`
+
+### 🟠 Contacts — Multi-List Contact Manager
+
+> **Personal project · Mobile app, solo**
+
+Multiple contact lists with custom cover photos and colour-coded icons, contacts added manually or pulled from the device's native address book, one-tap dialling, Iranian number validation/auto-formatting, offline-first storage, and a fully RTL Persian UI.
+
+`Angular 20` `Ionic 8` `Capacitor 8` `Offline-first`
+
+### 🟠 shamsi-datepicker
+
+> **Personal project · npm package**
+
+A dependency-free Jalali/Gregorian date & time picker in plain TypeScript: a DOM-free core with thin adapters for Angular, React, and vanilla JS. Single-date or range selection, an optional time picker, full RTL/Persian localisation, and independent per-instance theming.
+
+`TypeScript` `Zero deps` `Angular` `React` `Jalali ⇄ Gregorian`
+
 ### 🟠 geotajak-sdk
 
 > **Framework-agnostic OpenLayers toolkit · npm package**
 
 A lightweight wrapper with WMS layers, live GetFeatureInfo, drawing and measurement tools, XYZ basemaps, a themeable UI, and ready-made React and Angular examples.
+
+`OpenLayers` `WMS` `TypeScript`
 
 ## `04. Production platforms`
 
@@ -102,6 +136,7 @@ A lightweight wrapper with WMS layers, live GetFeatureInfo, drawing and measurem
 ### Let's build something worth putting on the map.
 
 [![Email](https://img.shields.io/badge/msr26.ir%40gmail.com-DEA404?style=for-the-badge&logo=gmail&logoColor=17130A)](mailto:msr26.ir@gmail.com)
+[![Phone](https://img.shields.io/badge/%2B98_913_468_7626-1A1E25?style=for-the-badge&logo=whatsapp&logoColor=F6C744)](tel:+989134687626)
 [![LinkedIn](https://img.shields.io/badge/mojtaba--sajadfar-1A1E25?style=for-the-badge&logo=linkedin&logoColor=F6C744)](https://www.linkedin.com/in/mojtaba-sajadfar)
 
 <sub>© 2026 Mojtaba Sajadfar · Built in Yazd, Islamic Republic Of Iran</sub>
